@@ -7,7 +7,7 @@ for i in range(0,a):
 	#print z
 	ls.append(z)
 	i=i+1
-print 'end'
+print ' start'
 
 n=10
 def fn(n,z):
